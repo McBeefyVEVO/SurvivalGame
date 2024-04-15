@@ -1,2 +1,3 @@
-2024/03/05-13:45:35.952 1448 Creating DB E:/UE5Projekt/SurvivalGame/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/03/05-13:45:36.099 1448 Reusing MANIFEST E:/UE5Projekt/SurvivalGame/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/04/13-18:20:48.891 562c Reusing MANIFEST E:/UE5Projekt/SurvivalGame/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/04/13-18:20:48.903 562c Recovering log #3
+2024/04/13-18:20:48.904 562c Reusing old log E:/UE5Projekt/SurvivalGame/Saved/webcache_4430\Local Storage\leveldb/000003.log 
