@@ -68,6 +68,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0FB57418F26CE670F8AA0778F665B9A2E1781ABC",
+			"Assets": [
+				"/Game/Textures/1-removebg-preview_Mat"
+			]
+		},
+		{
 			"ShaderMapHash": "8A6BC71B3B15BC0809477205929722E20AA850EA",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
@@ -86,12 +92,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "29396B23481514C27C7FE19BD29EFD59413B8C78",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_Solid"
-			]
-		},
-		{
 			"ShaderMapHash": "A0DEAB249D750BFDE65579546E08FD1215CF7F91",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigGizmoMaterial"
@@ -104,22 +104,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8C717E2538D38BE732C58C0C77E7D42E0E17AA77",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
-				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
-			]
-		},
-		{
 			"ShaderMapHash": "61277426C478920920DBA5B64D86A1F5E8E6AF0F",
 			"Assets": [
 				"/Game/Textures/WEARESTILLHERE_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "3C5AA426288DA1C2E3AFBB758A12B4A8CD72E963",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
 			]
 		},
 		{
@@ -154,9 +141,6 @@
 				"/Game/Inventory/Items/Models/Consumables/BigBottle_resized/Material_001",
 				"/Game/Inventory/Items/Models/Consumables/BigBottle_resized/Material_002",
 				"/Game/Inventory/Items/Models/Consumables/BigBottle_resized/Material_003",
-				"/Game/Inventory/Items/Models/Consumables/BlueBottle/Material_001",
-				"/Game/Inventory/Items/Models/Consumables/BlueBottle/Material_002",
-				"/Game/Inventory/Items/Models/Consumables/BlueBottle/Material_003",
 				"/Game/Inventory/Items/Models/Consumables/BrownCan/Material_003",
 				"/Game/Inventory/Items/Models/Consumables/BrownCan/Material_006",
 				"/Game/Inventory/Items/Models/Consumables/BrownCan_resized/Material_003",
@@ -170,8 +154,7 @@
 				"/Game/Inventory/Items/Models/Consumables/RedCan/Material_003",
 				"/Game/Inventory/Items/Models/Consumables/RedCan/Material_006",
 				"/Game/Inventory/Items/Models/Consumables/RedCan_resized/Material_003",
-				"/Game/Inventory/Items/Models/Consumables/RedCan_resized/Material_006",
-				"/Game/Models/Table/Material"
+				"/Game/Inventory/Items/Models/Consumables/RedCan_resized/Material_006"
 			]
 		},
 		{
@@ -184,6 +167,13 @@
 			"ShaderMapHash": "2A40D930A5C693CE813BD24D92B7B140718FB866",
 			"Assets": [
 				"/Interchange/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "A200F0300825DB8A778637DACAB2C2B57FD6876A",
+			"Assets": [
+				"/Game/Models/Cross/Material",
+				"/Game/Models/Cross/Material_001"
 			]
 		},
 		{
@@ -202,6 +192,12 @@
 			"ShaderMapHash": "E44DD039AD53BAA8CB31E538E5206735AE23AAB9",
 			"Assets": [
 				"/Game/UI/Message"
+			]
+		},
+		{
+			"ShaderMapHash": "0445CC3ADC76D61DE4243AA6E3D7AE748166DCB2",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
 			]
 		},
 		{
@@ -355,6 +351,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4253527BAA067EEFD73F15302DCFD877DB8D3188",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
 			"ShaderMapHash": "3E41BD7FA7EB079B51070CE03BB3F0F0029FFD40",
 			"Assets": [
 				"/Interchange/gltf/M_Transmission"
@@ -377,6 +379,13 @@
 			"Assets": [
 				"/Game/FirstPerson/Maps/DeathWorld",
 				"/Game/FirstPerson/Maps/FirstPersonMap"
+			]
+		},
+		{
+			"ShaderMapHash": "6BAE988E59D97CC08AA9DD415D1DD07778F18C9C",
+			"Assets": [
+				"/Game/Models/Nature/Material_001",
+				"/Game/Models/Nature/Material_002"
 			]
 		},
 		{
@@ -443,6 +452,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CF4AFAA820445130B8C936B53727CDE25FA107E2",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid"
+			]
+		},
+		{
 			"ShaderMapHash": "E8BB99AAA4020EB91DDD61AFAB25B13FC439ABE0",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask"
@@ -461,6 +476,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3BADB7B11EBD21630FBC46FFBA9914F0B60821EC",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
+			]
+		},
+		{
 			"ShaderMapHash": "948387B2B8CA7077921E3C0E988229C58359845F",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend"
@@ -469,8 +491,6 @@
 		{
 			"ShaderMapHash": "097A48B3F695E4FD2BDBE121A5ED9921C7DED6CA",
 			"Assets": [
-				"/Game/Models/Nature/Material_001",
-				"/Game/Models/Nature/Material_002",
 				"/Game/Textures/obsidian_480p_Mat",
 				"/Game/Textures/obsidian_480p_Pillar"
 			]
@@ -503,8 +523,7 @@
 			"ShaderMapHash": "64EEE9C82D9B297F674CABBF9DDA9F139AE15CD0",
 			"Assets": [
 				"/Game/LevelPrototyping/Textures/T_GridChecker_A_Mat",
-				"/Game/Models/Cross/Material",
-				"/Game/Models/Cross/Material_001"
+				"/Game/Textures/Vojtr_Mat"
 			]
 		},
 		{
@@ -526,9 +545,12 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E97DA5CCC39AA0E67C866EC237C64360931EC1F4",
+			"ShaderMapHash": "C1AC76CBEBE34686F245A9A138E64D63E6DE4A1B",
 			"Assets": [
-				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+				"/Game/Inventory/Items/Models/Consumables/BlueBottle/Material_001",
+				"/Game/Inventory/Items/Models/Consumables/BlueBottle/Material_002",
+				"/Game/Inventory/Items/Models/Consumables/BlueBottle/Material_003",
+				"/Game/Models/Table/Material"
 			]
 		},
 		{
